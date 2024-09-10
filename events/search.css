@@ -1,0 +1,35 @@
+ 
+body{
+background-color: blanchedalmond;
+}
+#image{
+height: 1000px;
+position: fixed;
+width: 1000px;
+left: 1000px;
+top: 0px;
+
+}
+
+#titre{
+    margin-top: 1%;
+    margin-left: 1%;
+    height: 30px;
+    display: flex;
+    padding: 10px 30px;
+    border-radius: 30px;
+    align-items:normal;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+.txt{
+    color: rgb(0, 0, 0);
+    font-style: italic;
+    font:bolder;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    top: 20px;
+}
+#bt{
+    b
+}
